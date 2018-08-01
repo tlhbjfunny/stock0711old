@@ -1,7 +1,7 @@
 '''
 Ver： 0.01
 copyright：Funny
-
+测试github
 '''
 #导入需要的库
 import pandas as pd
@@ -79,7 +79,7 @@ def is_dev(code,start,end,ktype,dev_time): #是否形成底背离判断函数,de
                 ls_dev_top_id=id
         ls_dev_top_id = ls_dev_top.index(ls_dev_top_id)
     #找出该位置是否存在背离
-
+    #此处代码又更新
 
 
 
