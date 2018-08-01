@@ -9,7 +9,7 @@ import numpy as np
 import ctypes#弹窗提醒
 import tushare as ts
 import tushare.stock.indictor as idx
-
+print('this is push test')
 #函数定义
 #1.获取上证/深证/创业板股票代码列表
 def get_stockcodes(stocktype):  #stocktype 股票类型：sh 上证 sz 深证 cyb 创业板
