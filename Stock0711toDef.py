@@ -1,11 +1,10 @@
 '''
 Ver： 0.01
 copyright：Funny
-测试github
+测试push
 '''
 #导入需要的库
 import pandas as pd
-import talib
 import numpy as np
 import ctypes#弹窗提醒
 import tushare as ts
